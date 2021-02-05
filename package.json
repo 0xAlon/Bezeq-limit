@@ -1,0 +1,22 @@
+{
+  "name": "bezeq-limit",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Bezeq_limit.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/0xAlon/Bezeq-limit.git"
+  },
+  "author": "Alon Teplitsky",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/0xAlon/Bezeq-limit/issues"
+  },
+  "homepage": "https://github.com/0xAlon/Bezeq-limit#readme",
+  "dependencies": {
+    "puppeteer": "^7.0.1"
+  }
+}
